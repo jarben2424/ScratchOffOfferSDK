@@ -1,14 +1,31 @@
-I apologize for the incomplete README earlier. Let me provide you with a complete, properly formatted README file for the Scratch Card SDK:
+# Scratch Card SDK
 
-`<ReactProject id="scratch-off-card">````markdown file="README.md"
-...
-```
+A React-based scratch card SDK that allows you to easily integrate interactive scratch cards into your web applications.
 
-Or using yarn:
+## Table of Contents
 
-```shellscript
-yarn add scratch-card-sdk
-```
+1. [Installation](#installation)
+2. [Usage](#usage)
+   - [Using the React Component](#using-the-react-component)
+   - [Using the Programmatic API](#using-the-programmatic-api)
+3. [Customization](#customization)
+   - [Text Offers](#text-offers)
+   - [Image Offers](#image-offers)
+4. [API Reference](#api-reference)
+   - [ScratchCard Component Props](#scratchcard-component-props)
+   - [createScratchCard Options](#createscratchcard-options)
+5. [Styling](#styling)
+6. [Browser Support](#browser-support)
+7. [Troubleshooting](#troubleshooting)
+8. [Contributing](#contributing)
+9. [License](#license)
+
+## Installation
+
+Install the package using npm:
+
+```bash
+npm install scratch-card-sdk
 
 ## Usage
 
