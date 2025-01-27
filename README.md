@@ -26,6 +26,7 @@ Install the package using npm:
 
 ```bash
 npm install scratch-card-sdk
+```
 
 ## Usage
 
